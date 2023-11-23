@@ -1,0 +1,6 @@
+F:\Бурдейный\Алгоритмы\11 заданий\11 zadanie\bin\Debug\11 zadanie.exe.config
+F:\Бурдейный\Алгоритмы\11 заданий\11 zadanie\bin\Debug\11 zadanie.exe
+F:\Бурдейный\Алгоритмы\11 заданий\11 zadanie\bin\Debug\11 zadanie.pdb
+F:\Бурдейный\Алгоритмы\11 заданий\11 zadanie\obj\Debug\11 zadanie.csproj.CoreCompileInputs.cache
+F:\Бурдейный\Алгоритмы\11 заданий\11 zadanie\obj\Debug\11 zadanie.exe
+F:\Бурдейный\Алгоритмы\11 заданий\11 zadanie\obj\Debug\11 zadanie.pdb

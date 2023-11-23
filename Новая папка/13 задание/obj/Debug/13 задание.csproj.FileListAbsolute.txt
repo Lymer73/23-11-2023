@@ -1,0 +1,14 @@
+F:\Бурдейный\Алгоритмы\11 заданий\13 задание\bin\Debug\13 задание.exe.config
+F:\Бурдейный\Алгоритмы\11 заданий\13 задание\bin\Debug\13 задание.exe
+F:\Бурдейный\Алгоритмы\11 заданий\13 задание\bin\Debug\13 задание.pdb
+F:\Бурдейный\Алгоритмы\11 заданий\13 задание\obj\Debug\13 задание.csproj.CoreCompileInputs.cache
+F:\Бурдейный\Алгоритмы\11 заданий\13 задание\obj\Debug\13 задание.exe
+F:\Бурдейный\Алгоритмы\11 заданий\13 задание\obj\Debug\13 задание.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\bin\Debug\13 задание.exe.config
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\bin\Debug\13 задание.exe
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\bin\Debug\13 задание.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\obj\Debug\13 задание.csproj.AssemblyReference.cache
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\obj\Debug\13 задание.csproj.SuggestedBindingRedirects.cache
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\obj\Debug\13 задание.csproj.CoreCompileInputs.cache
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\obj\Debug\13 задание.exe
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\13 задание\obj\Debug\13 задание.pdb
