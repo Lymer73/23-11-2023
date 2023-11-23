@@ -1,0 +1,15 @@
+F:\Бурдейный\Алгоритмы\11 заданий\12 zad\bin\Debug\12 zad.exe.config
+F:\Бурдейный\Алгоритмы\11 заданий\12 zad\bin\Debug\12 zad.exe
+F:\Бурдейный\Алгоритмы\11 заданий\12 zad\bin\Debug\12 zad.pdb
+F:\Бурдейный\Алгоритмы\11 заданий\12 zad\obj\Debug\12 zad.csprojAssemblyReference.cache
+F:\Бурдейный\Алгоритмы\11 заданий\12 zad\obj\Debug\12 zad.csproj.CoreCompileInputs.cache
+F:\Бурдейный\Алгоритмы\11 заданий\12 zad\obj\Debug\12 zad.exe
+F:\Бурдейный\Алгоритмы\11 заданий\12 zad\obj\Debug\12 zad.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\bin\Debug\12 zad.exe.config
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\bin\Debug\12 zad.exe
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\bin\Debug\12 zad.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\obj\Debug\12 zad.csproj.AssemblyReference.cache
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\obj\Debug\12 zad.csproj.SuggestedBindingRedirects.cache
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\obj\Debug\12 zad.csproj.CoreCompileInputs.cache
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\obj\Debug\12 zad.exe
+C:\Users\av700\OneDrive\Рабочий стол\Ярослав Н 23 группа\12 zad\obj\Debug\12 zad.pdb

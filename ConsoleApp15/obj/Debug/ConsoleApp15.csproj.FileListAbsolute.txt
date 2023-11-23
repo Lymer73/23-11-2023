@@ -1,0 +1,8 @@
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.AssemblyReference.cache
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\av700\OneDrive\Рабочий стол\Сироткин 23гр\Основы алгоритмизации и программирования\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
